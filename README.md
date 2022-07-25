@@ -7,7 +7,10 @@ They can deal with all cars and drivers info.
 * Managing drivers
 * Managing car manufacturers
 ## Demo
-You can check this project by following the link
+You can check this project by following the [link](top-taxi-service.herokuapp.com)
+To login as a demo user use following credentials:
+login: user
+password: 12345
 ##  Getting started
 If you want to run this project by yourself, ensure you have met the following requirements:
 * You have installed the latest version of Python
